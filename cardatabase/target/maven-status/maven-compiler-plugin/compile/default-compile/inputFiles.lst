@@ -1,0 +1,15 @@
+/Users/manfredi/Documents/Spring Boot & React/Eclipse Workspace/cardatabase/src/main/java/com/packt/cardatabase/SecurityConfig.java
+/Users/manfredi/Documents/Spring Boot & React/Eclipse Workspace/cardatabase/src/main/java/com/packt/cardatabase/domain/User.java
+/Users/manfredi/Documents/Spring Boot & React/Eclipse Workspace/cardatabase/src/main/java/com/packt/cardatabase/service/JwtService.java
+/Users/manfredi/Documents/Spring Boot & React/Eclipse Workspace/cardatabase/src/main/java/com/packt/cardatabase/domain/AccountCredentials.java
+/Users/manfredi/Documents/Spring Boot & React/Eclipse Workspace/cardatabase/src/main/java/com/packt/cardatabase/AuthenticationFilter.java
+/Users/manfredi/Documents/Spring Boot & React/Eclipse Workspace/cardatabase/src/main/java/com/packt/cardatabase/domain/OwnerRepository.java
+/Users/manfredi/Documents/Spring Boot & React/Eclipse Workspace/cardatabase/src/main/java/com/packt/cardatabase/domain/Car.java
+/Users/manfredi/Documents/Spring Boot & React/Eclipse Workspace/cardatabase/src/main/java/com/packt/cardatabase/service/UserDetailsServiceImpl.java
+/Users/manfredi/Documents/Spring Boot & React/Eclipse Workspace/cardatabase/src/main/java/com/packt/cardatabase/domain/CarRepository.java
+/Users/manfredi/Documents/Spring Boot & React/Eclipse Workspace/cardatabase/src/main/java/com/packt/cardatabase/CardatabaseApplication.java
+/Users/manfredi/Documents/Spring Boot & React/Eclipse Workspace/cardatabase/src/main/java/com/packt/cardatabase/domain/Owner.java
+/Users/manfredi/Documents/Spring Boot & React/Eclipse Workspace/cardatabase/src/main/java/com/packt/cardatabase/domain/UserRepository.java
+/Users/manfredi/Documents/Spring Boot & React/Eclipse Workspace/cardatabase/src/main/java/com/packt/cardatabase/web/CarController.java
+/Users/manfredi/Documents/Spring Boot & React/Eclipse Workspace/cardatabase/src/main/java/com/packt/cardatabase/web/LoginController.java
+/Users/manfredi/Documents/Spring Boot & React/Eclipse Workspace/cardatabase/src/main/java/com/packt/cardatabase/AuthEntryPoint.java

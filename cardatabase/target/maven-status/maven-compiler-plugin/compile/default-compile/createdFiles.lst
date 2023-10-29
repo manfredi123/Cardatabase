@@ -1,0 +1,15 @@
+com/packt/cardatabase/service/UserDetailsServiceImpl.class
+com/packt/cardatabase/domain/Owner.class
+com/packt/cardatabase/web/CarController.class
+com/packt/cardatabase/AuthEntryPoint.class
+com/packt/cardatabase/domain/OwnerRepository.class
+com/packt/cardatabase/CardatabaseApplication.class
+com/packt/cardatabase/domain/Car.class
+com/packt/cardatabase/web/LoginController.class
+com/packt/cardatabase/service/JwtService.class
+com/packt/cardatabase/SecurityConfig.class
+com/packt/cardatabase/AuthenticationFilter.class
+com/packt/cardatabase/domain/User.class
+com/packt/cardatabase/domain/CarRepository.class
+com/packt/cardatabase/domain/AccountCredentials.class
+com/packt/cardatabase/domain/UserRepository.class
